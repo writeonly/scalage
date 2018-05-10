@@ -1,0 +1,2 @@
+# scalage
+Scala storage
